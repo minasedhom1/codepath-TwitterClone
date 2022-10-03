@@ -16,6 +16,8 @@ The following **required** functionality is completed:
 - [x] User can favorite a tweet. (4pts)
 - [x] User can retweet a tweet. (2pts)
 
+- [x] User can see the tweet's time of creation. (Extra)
+
 The following **bonus** features are implemented:
 
 - [x] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
